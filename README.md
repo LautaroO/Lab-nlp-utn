@@ -1,4 +1,4 @@
-# Lab1-nlp-utn
+# Lab-nlp-utn
 Laboratorio de "Natural Language Processing" - UTN
 
 En caso de no visualizar la notebook en GitHub, utilizar:
