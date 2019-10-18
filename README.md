@@ -8,3 +8,5 @@ Lab1: https://nbviewer.jupyter.org/github/LautaroO/Lab-nlp-utn/blob/master/Labs/
 Lab2: https://nbviewer.jupyter.org/github/LautaroO/Lab-nlp-utn/blob/master/Labs/Laboratorio2/Laboratoro2-nlp.ipynb
 
 Lab3: https://nbviewer.jupyter.org/github/LautaroO/Lab-nlp-utn/blob/master/Labs/Laboratorio3/Laboratorio3-nlp.ipynb
+
+Lab4: https://nbviewer.jupyter.org/github/LautaroO/Lab-nlp-utn/blob/master/Labs/Laboratorio4/Laboratorio4-nlp.ipynb
